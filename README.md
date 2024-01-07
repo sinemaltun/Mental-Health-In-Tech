@@ -1,9 +1,13 @@
-### Mental Health In Tech
+# Mental Health In Tech
 
-Mental Health In Tech is a project created for introduction to data science practices whose main goals are to clean and examine a survey data regarding mental health 
-issues in the tech industry and how it is viewed by employers in the work place. As referenced, **OSMI Mental Health in Tech Survey 2016** data is used. 
-The project is developed in the Jupyter Notebook environment using Python and several libraries such as NumPy, Pandas, Matplotlib and Plotly.
+The "Mental Health In Tech" project serves as an introduction to data science practices, focusing on the analysis of survey data pertaining to mental health issues within the tech industry and how these issues are perceived by employers in the workplace. This project centers around the exploration and cleaning of data from the OSMI Mental Health in Tech Survey 2016.
 
-Necessary markdowns and references for several codes are visible within the project.
+The project is developed within the Jupyter Notebook environment using Python as the primary programming language. Several key libraries such as NumPy, Pandas, Matplotlib, and Plotly are utilized for data manipulation, analysis, and visualization.
 
-> Source of Data: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016
+### Project Goals:
+Data Cleaning and Analysis: The primary objective is to cleanse and scrutinize the survey data, uncovering insights into mental health trends within the tech sector and employer attitudes toward these issues in the workplace.
+
+### Dataset Information
+* Dataset Name: OSMI Mental Health in Tech Survey 2016
+* Data Source: [Kaggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016)
+* Topics Covered: Mental Health, Employement
